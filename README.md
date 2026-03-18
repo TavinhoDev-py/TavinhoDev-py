@@ -1,3 +1,7 @@
+<p align="center"> <img src = "banner.gif" width = "540px">
+
+  ---
+  
 # 👋 Olá, eu sou o Otávio Henrique
 
 🎯 Estudante de Ciência da Computação  
